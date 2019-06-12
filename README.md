@@ -5,4 +5,4 @@ Allow the user to do registration.The Registered data of user will be stored in 
 <img src="registr.PNG" width="500"></img>               
 # Login
 <img src="log.PNG" width="500"></img>
-<img src="log2.PNG" width="500"></img>
+<img src="log2.PNG" width="300"></img>
