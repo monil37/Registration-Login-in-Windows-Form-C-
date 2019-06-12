@@ -5,3 +5,4 @@ Allow the user to do registration.The Registered data of user will be stored in 
 ![](registr.PNG)                 
 # Login
 ![](log.PNG)
+![](log2.PNG)
